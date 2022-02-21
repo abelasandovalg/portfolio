@@ -3,10 +3,7 @@
 
 @import "{{ site.theme }}";
 
-#name { 
+#header {
   text-align: center;
-}
-
-#desc { 
-  text-align: center;
+  margin: auto;
 }
