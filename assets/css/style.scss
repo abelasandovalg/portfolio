@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-.center { 
+#name { 
+  text-align: center;
+}
+
+#desc { 
   text-align: center;
 }
