@@ -6,8 +6,7 @@
 - Generated entity relationship diagrams (ERD) and dashboards to display insights
 
 <p align="center">
-  <img src="images/overall_status.png" width="200"/>
-  <img src="images/conditions.png" width="200"/> 
+  <img src="images/status_conditions.png" width="100%"/>
 </p>
 
 ## Electroencephalograph (EEG) Visualization
@@ -17,7 +16,7 @@
 - Created an interactive dashboard with the use of Altair 
 
 <p align="center">
-  <img src="images/preview.png" width="400"/>
+  <img src="images/preview.png" width="100%"/>
 </p>
 
-## Texas State Patrol: Traffic Stop Search Analysis/Classification
+## Texas State Patrol: Traffic Stop Search Classification
