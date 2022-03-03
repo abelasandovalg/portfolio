@@ -6,8 +6,8 @@
 - Generated entity relationship diagrams (ERD) and dashboards to display insights
 
 <p float="left">
-  <img src="/images/overall_status.png" width="100" />
-  <img src="/images/conditions.png" width="100" /> 
+  <img src="https://github.com/abelasandovalg/clinical-trials/blob/main/images/overall_status.png" width="100" />
+  <img src="https://github.com/abelasandovalg/clinical-trials/blob/main/images/conditions.png" width="100" /> 
 </p>
 
 ## Electroencephalograph (EEG) Visualization
