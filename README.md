@@ -1,5 +1,7 @@
 # Portfolio 
 
+---
+
 ## [National Institutes of Health (NIH) Clinical Trials Analysis](https://github.com/abelasandovalg/clinical-trials)
 - Modeled 15+ tables with over 700,000 records using BigQuery
 - Created a workflow using Google Apache Beam & Airflow to strategically process data 
