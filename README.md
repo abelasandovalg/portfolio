@@ -20,7 +20,7 @@
 - Created an interactive dashboard with the use of Altair 
 
 <p align="center">
-  <img src="images/preview.png" width="100%"/>
+  <img src="images/eeg-preview.png" width="100%"/>
 </p>
 
 ---
