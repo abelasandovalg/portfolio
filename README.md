@@ -10,8 +10,6 @@
   <img src="/images/conditions.png" width="100" /> 
 </p>
 
-![overall_status](https://github.com/abelasandovalg/clinical-trials/blob/main/images/overall_status.png) ![conditions](https://github.com/abelasandovalg/clinical-trials/blob/main/images/conditions.png)
-
 ## Electroencephalograph (EEG) Visualization
 
 ## Texas State Patrol: Traffic Stop Search Analysis/Classification
