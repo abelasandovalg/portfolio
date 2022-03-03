@@ -12,7 +12,7 @@
 ## [Electroencephalograph (EEG) Visualization](https://github.com/abelasandovalg/eeg)
 - Confirmed the absence of "bad" channels using Python's MNE package 
 - Employed Principal Component Analysis (PCA) as a dimension reductinality measure 
-- Performed Guassian Mixture Model clustering to aggregate channels with similar activity 
+- Performed Guassian Mixture Model clustering to aggregate channels with similar activity into groups
 - Created an interactive dashboard with the use of Altair 
 
 <p align="center">
