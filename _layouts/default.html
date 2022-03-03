@@ -13,13 +13,11 @@
   <body>
     <div class="wrapper">
       <header id="header">
-        <div align="center">
-          <h1 id="name"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 id="name"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-          <img src="{{ '/images/portfolio-headshot.png' | relative_url }}"/> 
+        <img src="{{ '/images/portfolio-headshot.png' | relative_url }}"/> 
 
-          <p id="desc">{{ site.description | default: site.github.project_tagline }}</p>
-        </div>
+        <p id="desc">{{ site.description | default: site.github.project_tagline }}</p>
       </header>
       <section>
 
