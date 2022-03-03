@@ -5,8 +5,10 @@
 - Created a workflow using Google Apache Beam & Airflow to strategically process data 
 - Generated entity relationship diagrams (ERD) and dashboards to display insights
 
-<img src="https://github.com/abelasandovalg/clinical-trials/blob/main/images/overall_status.png" height="250" />
-<img src="https://github.com/abelasandovalg/clinical-trials/blob/main/images/conditions.png" height="250" /> 
+<p float="left">
+  <img src="https://github.com/abelasandovalg/clinical-trials/blob/main/images/overall_status.png" height="250" />
+  <img src="https://github.com/abelasandovalg/clinical-trials/blob/main/images/conditions.png" height="250" /> 
+ </p>
 
 ## Electroencephalograph (EEG) Visualization
 
