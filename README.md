@@ -15,7 +15,7 @@
 
 ## [Electroencephalograph (EEG) Visualization](https://github.com/abelasandovalg/eeg)
 - Confirmed the absence of "bad" channels using Python's MNE package 
-- Employed Principal Component Analysis (PCA) as a dimension reductinality measure 
+- Employed Principal Component Analysis (PCA) as a dimension reductionality measure 
 - Performed Guassian Mixture Model clustering to aggregate channels with similar activity
 - Created an interactive dashboard with the use of Altair 
 
