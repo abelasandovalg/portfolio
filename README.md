@@ -34,3 +34,10 @@
 <p align="center">
   <img src="images/confusion_matrix.png" width="100%"/>
 </p>
+
+---
+
+## Coursework 
+
+### [Elements of Data Analytics](https://github.com/abelasandovalg/analytics)
+### [Elements of Data Visualization](https://github.com/abelasandovalg/visualization)
