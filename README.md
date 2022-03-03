@@ -6,12 +6,11 @@
 - Generated entity relationship diagrams (ERD) and dashboards to display insights
 
 <p align="center">
-  <img src="images/overall_status.png" width="200" />
-  <img src="images/conditions.png" width="200" /> 
+  <img src="images/overall_status.png" width="50%" />
+  <img src="images/conditions.png" width="50%" /> 
 </p>
 
 ## Electroencephalograph (EEG) Visualization
-
-
+- 
 
 ## Texas State Patrol: Traffic Stop Search Analysis/Classification
