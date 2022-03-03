@@ -9,6 +9,8 @@
   <img src="images/status_conditions.png" width="100%"/>
 </p>
 
+---
+
 ## [Electroencephalograph (EEG) Visualization](https://github.com/abelasandovalg/eeg)
 - Confirmed the absence of "bad" channels using Python's MNE package 
 - Employed Principal Component Analysis (PCA) as a dimension reductinality measure 
@@ -18,6 +20,8 @@
 <p align="center">
   <img src="images/preview.png" width="100%"/>
 </p>
+
+---
 
 ## [Texas State Patrol: Traffic Stop Search Classification](https://github.com/abelasandovalg/police-search)
 - Feature engineered new columns from existing data 
