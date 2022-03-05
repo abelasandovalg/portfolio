@@ -25,7 +25,7 @@
 
 ---
 
-## [Texas State Patrol: Traffic Stop Search Classification](https://github.com/abelasandovalg/police-search)
+## [Texas State Patrol Traffic Stop Search Classification](https://github.com/abelasandovalg/police-search)
 - Feature engineered new columns from existing data 
 - Resampled data using RandomOverSampler and RandomUnderSampler
 - Bulit and trained Decision Tree, Random Forest, and AdaBoost classifiers
